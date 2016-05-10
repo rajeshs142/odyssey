@@ -1,0 +1,16 @@
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+.*.swp
+.*.swo
+*~
+*.log
+.htaccess.swp
+.*.swm
+.*.swn
+.*.swl
+.*.swk
+.DS_Store
